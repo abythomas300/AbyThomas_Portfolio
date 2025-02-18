@@ -51,3 +51,6 @@ svg:hover{
 #copyrightFooter{
     background-color: #ffc107 !important;
 }
+#github-link-footer{
+    text-decoration: none;
+}
